@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "891152969839",
+    "project_id": "xray-body-girl-scanner-view",
+    "storage_bucket": "xray-body-girl-scanner-view.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891152969839:android:43fd46b4585fc96fbddd9a",
+        "android_client_info": {
+          "package_name": "com.udelmucepot.xrybdygrlsnrvw"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrRAy56dPPM3GSLI0--XToj_zpQ3weIww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
